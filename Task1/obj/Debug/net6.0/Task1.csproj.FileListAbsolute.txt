@@ -1,0 +1,15 @@
+D:\Work\С#\Семинар1\Task1\bin\Debug\net6.0\Task1.exe
+D:\Work\С#\Семинар1\Task1\bin\Debug\net6.0\Task1.deps.json
+D:\Work\С#\Семинар1\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+D:\Work\С#\Семинар1\Task1\bin\Debug\net6.0\Task1.dll
+D:\Work\С#\Семинар1\Task1\bin\Debug\net6.0\Task1.pdb
+D:\Work\С#\Семинар1\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+D:\Work\С#\Семинар1\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Семинар1\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+D:\Work\С#\Семинар1\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+D:\Work\С#\Семинар1\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\Work\С#\Семинар1\Task1\obj\Debug\net6.0\Task1.dll
+D:\Work\С#\Семинар1\Task1\obj\Debug\net6.0\refint\Task1.dll
+D:\Work\С#\Семинар1\Task1\obj\Debug\net6.0\Task1.pdb
+D:\Work\С#\Семинар1\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+D:\Work\С#\Семинар1\Task1\obj\Debug\net6.0\ref\Task1.dll
