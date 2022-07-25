@@ -1,7 +1,7 @@
 ﻿int number1 = 0;
 int number2 = 0;
 int number3 = 0;
-int max = 0;
+int max = 0; //здесь будем хранить максимальное значение
 Console.Write($"Введите первое число: ");
 bool enter1 = int.TryParse(Console.ReadLine(), out number1);
 //проверим какое из первых двух чисел больше:
